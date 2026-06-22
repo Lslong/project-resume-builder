@@ -38,7 +38,7 @@
 
 1. 将本仓库克隆或下载到 Claude Code 的 skills 目录：
 ```bash
-git clone <repo-url> ~/.claude/skills/project-resume-builder
+git clone git@github.com:Lslong/project-resume-builder.git ~/.claude/skills/project-resume-builder
 ```
 
 2. 在 Claude Code 中验证安装：
